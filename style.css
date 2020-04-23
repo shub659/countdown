@@ -1,0 +1,52 @@
+body {
+  background-image: linear-gradient(to top, #00dbde, #fc00ff);
+  height: 100vh;
+}
+
+#title {
+  font-family: 'Staatliches', cursive;
+  text-align: center;
+  position: relative;
+  top: 50px;
+  color: aqua;
+  font-size:4vw;
+  border-style: dotted;
+  border-width: 10px;
+  border-color: black;
+}
+
+#Mine {
+  font-family: 'Anton', sans-serif;
+  position: relative;
+  top: 100px;
+  text-align:center;
+  position: relative;
+  color: aqua;
+  font-size: 3.5vw;
+}
+
+#Me {
+  font-family: 'Anton', sans-serif;
+  text-align: center;
+  position: relative;
+  top: 150px;
+  font-size: 3vw
+}
+
+#Teacher {
+  font-family: 'Anton', sans-serif;
+ position: relative;
+  top: 200px;
+  text-align:center;
+  position: relative;
+  color: aqua;
+  font-size: 3.5vw;
+}
+
+#Pooja {
+  font-family: 'Anton', sans-serif;
+  text-align: center;
+  position: relative;
+  top: 250px;
+  font-size: 3vw;
+}
