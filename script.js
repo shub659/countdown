@@ -26,7 +26,7 @@ var x = setInterval(function() {
   }
 }, 1000);
 
-var countDownDateK = new Date("May 2, 2020 ").getTime();
+var countDownDateK = new Date("May 2, 2021 ").getTime();
 
 var x = setInterval(function() {
   var now = new Date().getTime();
